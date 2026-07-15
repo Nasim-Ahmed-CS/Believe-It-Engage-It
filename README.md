@@ -117,7 +117,7 @@ Physiological Strain
 - No significant increase in Nausea or Disorientation
 - Confirms ecological validity of HoloLens 2 simulation
 
-## Machine Learning Benchmarks
+## Machine Learning Case Studies
 
 ### Engagement Classification Models
 
