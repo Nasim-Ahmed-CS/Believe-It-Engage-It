@@ -14,6 +14,7 @@ Age range: 19-32 years
 Diverse ethnic backgrounds: Asian, White, Hispanic or Latino, Black or African American, and multiracial
 Educational backgrounds: Associate to Master's level programs
 VR/AR experience: varied from no previous exposure to more than 100 sessions
+Ethics approval: The study was approved by the authors' Institutional Review Board (IRB).
 
 ### Experimental Conditions
 Text-Only Condition: 15 participants
